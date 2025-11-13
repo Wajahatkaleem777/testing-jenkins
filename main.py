@@ -38,12 +38,6 @@ def greet(person):
 greet(name)
 
 # ------------------------------
-# 6️⃣ Taking User Input
-# ------------------------------
-user_city = input("\nEnter your city: ")
-print(f"Nice! You live in {user_city}.")
-
-# ------------------------------
 # 7️⃣ Using Lists
 # ------------------------------
 fruits = ["apple", "banana", "mango"]
