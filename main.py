@@ -2,7 +2,7 @@
 name = "Wajahat"
 age = 25
 
-print("Hello,", name)
+print("Hello,", names)
 print("You are", age, "years old.")
 
 if age >= 18:
